@@ -17,14 +17,19 @@ PRIMARY KEY (`id`));
 
 INSERT INTO `hw1`.`phone` (`producer`, `model`, `color`, `memory`, `price`, `qty`) 
 VALUES ('Apple', 'iPHONE 11', 'black', '64', '600', '10');
+
 INSERT INTO `hw1`.`phone` (`producer`, `model`, `color`, `memory`, `price`, `qty`) 
 VALUES ('Apple', 'iPHONE 13', 'white', '128', '650', '5');
+
 INSERT INTO `hw1`.`phone` (`producer`, `model`, `color`, `memory`, `price`, `qty`) 
 VALUES ('Samsung', 'Galaxy S22', 'black', '256', '680', '2');
+
 INSERT INTO `hw1`.`phone` (`producer`, `model`, `color`, `memory`, `price`, `qty`) 
 VALUES ('Samsung', 'Galaxy A53', 'white', '256', '330', '6');
+
 INSERT INTO `hw1`.`phone` (`producer`, `model`, `color`, `memory`, `price`, `qty`) 
 VALUES ('Xiaomi', 'Redmi 9C', 'green', '64', '150', '10');
+
 INSERT INTO `hw1`.`phone` (`producer`, `model`, `color`, `memory`, `price`, `qty`) 
 VALUES ('Sony', 'Xperia 10', 'green', '128', '400', '1');
 
