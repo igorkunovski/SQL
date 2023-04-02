@@ -22,8 +22,8 @@ BEGIN
     INSERT INTO profiles (user_id, gender, birthday, photo_id, hometown) VALUES
     (id, gender, birthday, photo_id, hometown);
     
-    SELECT * FROM hw4.users;
-    SELECT * FROM hw4.profiles;
+    SELECT * FROM hw6.users;
+    SELECT * FROM hw6.profiles;
 
 END //
 
